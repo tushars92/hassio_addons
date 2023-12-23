@@ -1,4 +1,4 @@
-FROM tushars92/neolink:v0.1
+FROM tushars92/neolink:v0.6.3.rc.1
 
 RUN apt-get update && \
     apt-get install -y \
